@@ -9,4 +9,15 @@ var cardThree = "king";
 var cardFour = "king";
 
 
+//Check of the card values are equal, if so, alert the user they've found a match
+if (cardOne === cardTwo) {
+	alert("You found a match!");
+} if (cardOne === cardOne) {
+	alert("You found a match!");
+} 
+// if (cardOne === cardThree) {
+// 	alert("Sorry, try again.");
+// } if (cardOne === cardFour) {
+// 	alert("Sorry, try again.");
+// } 
 
